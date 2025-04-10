@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @hpsunday
 - 👀 I’m interested in web and mobile app development
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning reactjs and flutter
 - 💞️ I’m looking to collaborate on ... nah
 - 📫 How to reach me ... pm is the key
 
