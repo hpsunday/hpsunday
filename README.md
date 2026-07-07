@@ -90,9 +90,4 @@ with a small **PHP** backend for the contact form and IP lookup.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hpsunday&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hpsunday&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" height="165">
-</p>
-
 <p align="center"><i>The stack shifts. I pick the right tool for the brief, not the loudest one on hacker news.</i></p>
