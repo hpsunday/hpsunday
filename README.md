@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Full-stack developer · systems thinker · ship-fast pragmatist</b><br>
-  Based in Baguio City, Philippines 🇵🇭 — building reliable web platforms, internal tools, and mobile apps.
+  Building reliable web platforms, internal tools, and mobile apps.
 </p>
 
 <p align="center">
